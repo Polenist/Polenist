@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/POLENIST/.github/main/Polenist-Logo.jpg" alt="Polenist" width="120" />
+<img src="https://raw.githubusercontent.com/POLENIST/.github/main/PolenistLogo.jpg" alt="Polenist" width="120" />
 
 # Polenist
 
